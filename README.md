@@ -1,5 +1,3 @@
-# Game:Find The Boss
-
 ## Unity based Game: Find The Boss
     
 Programming Language: C#
