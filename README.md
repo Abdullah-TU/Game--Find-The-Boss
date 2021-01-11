@@ -7,4 +7,4 @@
 ## MAIN FEATURES OF THE GAME : 
 
 1.	Solve the problem and open the gate.
-
+2.	Explore the sea side view and collect some clue. 
